@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumBetween2Numbers", "..\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodemaskine", "..\Kodemaskine\Kodemaskine.csproj", "{F9F4FDD8-C6C3-48F2-873A-9A62BE693BB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regnemaskine", "Regnemaskine\Regnemaskine.csproj", "{C8458188-36E9-46CE-8AB9-03F976A15D83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F9F4FDD8-C6C3-48F2-873A-9A62BE693BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F4FDD8-C6C3-48F2-873A-9A62BE693BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F4FDD8-C6C3-48F2-873A-9A62BE693BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8458188-36E9-46CE-8AB9-03F976A15D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8458188-36E9-46CE-8AB9-03F976A15D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8458188-36E9-46CE-8AB9-03F976A15D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8458188-36E9-46CE-8AB9-03F976A15D83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
